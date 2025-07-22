@@ -6,7 +6,7 @@ import struct
 import os
 from IPy import IP
 
-# 本地代理端口，你的和我不一定一样，按照自己的设置改动一下
+# 本地代理端口
 PORT = 7897
 
 
